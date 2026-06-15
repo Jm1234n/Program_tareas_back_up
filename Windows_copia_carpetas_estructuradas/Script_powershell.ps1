@@ -1,8 +1,8 @@
 # Origen
-$origen = "D:\DESARROLLO\migracion de BD\BDP\exportacion de GDB\prueba"
+$origen = "Y:\SIGMTP\BDP"
 
 # Destino base
-$destinoBase = "D:\DESARROLLO\AUTOMATIZACION DE BACK UP\pRUEBA DE SALIDA"
+$destinoBase = "D:\backup"
 
 # Fecha
 $fecha = Get-Date -Format "yyyy-MM-dd_HH-mm"

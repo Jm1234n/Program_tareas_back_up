@@ -3,3 +3,9 @@
 -ExecutionPolicy Bypass -File "Ruta entre comillas"
 
 #Mientras que en programa o script, se coloca el programa que se usara en este caso es Powershell
+
+
+
+#para la ejecucion manual en powershell:
+
+powershell.exe -ExecutionPolicy Bypass -File "ruta entre comillas"

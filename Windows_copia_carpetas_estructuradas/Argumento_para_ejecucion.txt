@@ -1,1 +1,8 @@
--ExecutionPolicy Bypass -File "D:\DESARROLLO\AUTOMATIZACION DE BACK UP\Prueba.ps1"
+para programador de tareas
+
+-ExecutionPolicy Bypass -File "tu ruta del código de powershell"
+
+
+para ejecución en powershell
+
+powershell.exe -ExecutionPolicy Bypass -File "tu ruta del código de powershell"
